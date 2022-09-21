@@ -1,4 +1,5 @@
 if __name__ == '__main__':
-    print("Hello world")
-
+    x=intup(V)
+    y=intup(t)
+print(x*y)
 
