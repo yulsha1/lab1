@@ -1,5 +1,3 @@
-if __name__ == '__main__':
-    x=intup(V)
-    y=intup(t)
+x = V
+y = t
 print(x*y)
-
